@@ -1,4 +1,4 @@
-# **Suggestions Done by Delta Members**
+# **Suggestions Made by Delta Members**
 
 ## **Added Suggestions**
 
