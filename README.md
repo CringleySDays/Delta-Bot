@@ -19,15 +19,25 @@
 『 ***:map:   __DESTINATIONS___*** 』
 
 > **•**  :flag_jp: **Haneda Int. Airport:** Orenji 
+
 > **•**  :flag_us:  **JFK Int. Airport:** Grindavik 
+
 > **•**  :flag_us:  **Los Angeles Int. Airport:** Mellor
+
 > **•**  :flag_us:  **Atlanta Int. Airport:** Rockford 
-> **•**  :flag_my:  **Kuala Lumpur Airport:** Saint Barthelemy  
+
+> **•**  :flag_my:  **Kuala Lumpur Airport:** Saint Barthelemy 
+
 > **•**  :flag_au:  **Sydney Int. Airport:** Perth
+
 > **•**  :flag_tw:  **Taiwan Songshan Airport:** Al Najaf
+
 > **•**  :flag_kr:  **Seoul Incheon Int. Airport:** Izolirani  
+
 > **•**  :flag_gb:  **London City Airport:** Larnaca  
+
 > **•**  :flag_de:  **Frankfurt Airport:** Paphos 
+
 > **•**  :flag_ca:  **Toronto Pearson Int. Airport:** Sauthemptona 
 **—————————————————————————————————————————————————————————————————**
 > **•**  **Certified by PTFS Federal Aviation Administrator & PTFS International Civil Aviation Organisation!**
