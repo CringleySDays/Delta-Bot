@@ -3,9 +3,13 @@
 『 ***:exclamation:  __ABOUT US___*** 』
 
 > **•**  :loudspeaker: **Daily Flights:** Custom IFE on board 
+
 > **•**  :pencil: **Looking for pilots & airport staff!:**  Flight Attendants, Ground Crew and ATC 
+
 > **•**  :robot:  **Custom flight bot made for Delta Airline!:** Flight File to host Flights, and much more
+
 > **•**  :man_office_worker: **Professional!:** Captain and FO in flight conversation, Menus to get food in flight, IFE during flight  
+
 > **•**  :chart_with_upwards_trend:  **Active Staff!**
 **—————————————————————————————————————————————————————————————————**
 『 ***:question:  __WHY US?__*** 』
@@ -41,5 +45,7 @@
 > **•**  :flag_ca:  **Toronto Pearson Int. Airport:** Sauthemptona 
 **—————————————————————————————————————————————————————————————————**
 > **•**  **Certified by PTFS Federal Aviation Administrator & PTFS International Civil Aviation Organisation!**
+
 > **•**  :tada:   ***Come join us!***  :tada: 『  https://discord.gg/46RrQUJmAY 』
+
 > **•**  :fire:  ***#RoadTo250***  :fire:  『 https://www.youtube.com/watch?v=OJCZWmxhDOk 』
