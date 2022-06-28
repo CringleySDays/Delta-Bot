@@ -12,6 +12,8 @@
 - [ `DiamondIsPro` ] suggesting for every New Member joining, It'll send a Plane GIF of Delta 
 
 - [ `zoontz` ] suggesting to send in the New Member Announcement to a separate channel and possibly Members that leave too :(
+
+- [ `DiamondIsPro` ] suggesting to track down members that did the flight
     
 ---------------------------------------------------------------------
 ## **Rejected Suggestions**
