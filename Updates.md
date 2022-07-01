@@ -1,3 +1,28 @@
+# ***Update Version 0.0.2[A]**
+
+### **Contents and Features**
+
+- [ `/staff_id` ] has been given another feature to view all the Staff IDs that have been used
+
+- [ `/check_flight` & `/flight` ] will be able to execute only in **Captain Lounge**
+
+- Reduced cooldown for [ `/check_flight` ] to 30 seconds to prevent spamming and to use the command quickly as possible
+
+- Increased cooldown for [ `/flight` ] to 30 seconds to once again prevent spamming and to use the command quickly as possible
+
+
+### **Bugs and Typos Fixes**
+
+- Fixed the issue of being able to use `/end_check` continously that deleted previous Flight Results
+
+- [ `/end_check` ] can be used only by a special role given by the Bot
+
+- Fixed few issues where the Bot was not configured properly to the main Delta Server's Settings
+
+
+------------------------------------------------------------------------
+
+
 # ***Update Version 0.0.2***
 
 ### **Contents and Features**
@@ -86,6 +111,7 @@
 
 
 ------------------------------------------------------------------------
+
 
 # ***Update Version 0.0.1***
 
