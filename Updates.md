@@ -1,4 +1,4 @@
-# ***Update Version 0.0.2[A]**
+# ***Update Version 0.0.2[A]***
 
 ### **Contents and Features**
 
