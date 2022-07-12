@@ -16,6 +16,15 @@
 ---------------------------------------------------------------------
 ## **In Review Suggestions**
 
+- [ `amogi` ] suggesting to change Colour of Embedded once the Button has been clicked *orange* when Flight has Departed
+
+- [ `amogi` ] suggesting to add reward system to those that attend full flights
+
+- [ `DiamdnIsPro` ] suggesting to enforce 2 flights a Day those that are cancelled or success 
+
+- [ `Dark` ] suggesting to add in Notes section after Ending Flights to give a summarised or a note 
+
+- [ `amogi` ] suggesting SkyMiles 
     
 ---------------------------------------------------------------------
 ## **Rejected Suggestions**
